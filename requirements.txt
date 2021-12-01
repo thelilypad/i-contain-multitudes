@@ -5,27 +5,25 @@ attrs==21.2.0
 Babel==2.9.1
 backcall==0.2.0
 backports.entry-points-selectable==1.1.0
-beautifulsoup4 @ file:///home/conda/feedstock_root/build_artifacts/beautifulsoup4_1631087867185/work
+beautifulsoup4
 bezier==2021.2.12
 bleach==4.1.0
 brotlipy==0.7.0
 cachetools==4.2.4
 certifi==2021.10.8
-cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1625835329396/work
-chardet @ file:///Users/runner/miniforge3/conda-bld/chardet_1610093613037/work
-colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
-conda==4.10.3
-conda-build==3.21.4
-conda-package-handling @ file:///Users/runner/miniforge3/conda-bld/conda-package-handling_1618231472205/work
-cryptography @ file:///Users/runner/miniforge3/conda-bld/cryptography_1633983347929/work
+cffi
+chardet
+colorama
+conda
+conda-build
+cryptography
 cycler==0.10.0
 debugpy==1.5.1
 decorator==5.1.0
 defusedxml==0.7.1
 distlib==0.3.3
 entrypoints==0.3
-filelock @ file:///home/conda/feedstock_root/build_artifacts/filelock_1633273934192/work
--e git+https://github.com/thelilypad/i-contain-multitudes.git@9575bbf297efb15862f45512cfc51f9fe05ad0ce#egg=forceatlas2_python&subdirectory=forceatlas2-python
+filelock
 glob2==0.7
 google-api-core==2.1.1
 google-auth==2.3.0
@@ -36,13 +34,13 @@ google-crc32c==1.3.0
 google-resumable-media==2.0.3
 googleapis-common-protos==1.53.0
 grpcio==1.41.0
-idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1593328102638/work
+idna
 igraph==0.1.14
 ipykernel==6.4.2
 ipython==7.28.0
 ipython-genutils==0.2.0
 jedi==0.18.0
-Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1633656206378/work
+Jinja2
 json5==0.9.6
 jsonschema==4.1.2
 jupyter-client==7.0.6
@@ -52,8 +50,8 @@ jupyterlab==3.2.1
 jupyterlab-pygments==0.1.2
 jupyterlab-server==2.8.2
 kiwisolver==1.3.2
-libarchive-c @ file:///Users/runner/miniforge3/conda-bld/python-libarchive-c_1622603367015/work/dist
-MarkupSafe @ file:///Users/runner/miniforge3/conda-bld/markupsafe_1621455730541/work
+libarchive-c
+MarkupSafe
 matplotlib==3.4.3
 matplotlib-inline==0.1.3
 mistune==0.8.4
@@ -72,44 +70,41 @@ parso==0.8.2
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==8.4.0
-pkginfo @ file:///home/conda/feedstock_root/build_artifacts/pkginfo_1625854086923/work
+pkginfo
 platformdirs==2.4.0
 plotly==5.3.1
 prometheus-client==0.11.0
 prompt-toolkit==3.0.21
 proto-plus==1.19.5
 protobuf==3.19.0
-psutil @ file:///Users/runner/miniforge3/conda-bld/psutil_1618863954607/work
+psutil
 ptyprocess==0.7.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-pycosat @ file:///Users/runner/miniforge3/conda-bld/pycosat_1624996670507/work
-pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
+pycosat
+pycparser
 Pygments==2.10.0
-pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1633192417276/work
+pyOpenSSL
 pyparsing==3.0.0
 pyrsistent==0.18.0
-PySocks @ file:///Users/runner/miniforge3/conda-bld/pysocks_1610291470465/work
+PySocks
 python-dateutil==2.8.2
-pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1633452062248/work
+pytz
 PyYAML==5.4.1
 pyzmq==22.3.0
-requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1608156231189/work
+requests
 requests-unixsocket==0.2.0
 rsa==4.7.2
-ruamel-yaml-conda @ file:///Users/runner/miniforge3/conda-bld/ruamel_yaml_1624999685134/work
 Send2Trash==1.8.0
-six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+six
 sniffio==1.2.0
-soupsieve @ file:///home/conda/feedstock_root/build_artifacts/soupsieve_1597680516047/work
+soupsieve
 tenacity==8.0.1
 terminado==0.12.1
 testpath==0.5.0
 tornado==6.1
-tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1632160078689/work
+tqdm
 traitlets==5.1.0
-urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1632350318291/work
-virtualenv==20.9.0
-wcwidth==0.2.5
+urllib3
 webencodings==0.5.1
 websocket-client==1.2.1
